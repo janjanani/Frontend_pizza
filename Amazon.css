@@ -1,0 +1,17 @@
+.warning {
+    height: 40px;
+    width: 250px;
+    position: absolute;
+    right: 0;
+    top: 10%;
+    background-color: white;
+    font-size: 1.1rem;
+    color: red;
+    font-family: cursive;
+    padding: 5px;
+    border-radius: 5px;
+}
+/* section{
+    height:150vh;
+    overflow:hidden;
+} */

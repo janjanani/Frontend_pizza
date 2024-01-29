@@ -1,0 +1,18 @@
+.im{
+    width: 40%;
+    height: 50%;
+    object-fit: cover;
+    margin-left: 70%;
+
+}
+.btn1{
+    margin-top:0%;
+    background-color: aqua;
+    position: relative;
+    margin-left: 0%;
+    top: 400px;
+    left: 400px;
+}
+.container{
+    position: absolute;
+}
